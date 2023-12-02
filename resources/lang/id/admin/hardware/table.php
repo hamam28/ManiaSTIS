@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'asset_tag'   	=> 'Nomor Urut Perangkat',
+    'asset_model'       => 'Model',
+    'book_value'  	=> 'Harga',
+    'change' 		=> 'Masuk/Keluar',
+    'checkout_date' => 'Tanggal Pengalokasian',
+    'checkoutto' 	=> 'Dialokasikan Kepada',
+    'current_value' => 'Nilai Saat Ini',
+    'diff' 			=> 'Diff',
+    'dl_csv' 		=> 'Unduh CSV',
+    'eol' 			=> 'Masa Habis Pakai/Kelayakan',
+    'id'      		=> 'ID',
+    'location' 		=> 'Ruangan/Lokasi',
+    'purchase_cost'	=> 'Biaya Pembelian',
+    'purchase_date'	=> 'Tanggal Pembelian',
+    'serial'   		=> 'Serial Number/Service Tag',
+    'status'   		=> 'Status Perangkat',
+    'title'      	=> 'Aset ',
+    'image'		    => 'Gambar Perangkat',
+    'days_without_acceptance' => 'Tanda Terima',
+    'monthly_depreciation' => 'Penyusutan Bulanan',
+    'assigned_to'    => 'Ditugaskan Kepada',
+    'requesting_user' => 'Pengguna Peminta',
+    'requested_date' => 'Tanggal Diminta',
+    'changed'       => 'Diubah',
+    'icon' => 'Ikon',
+];
